@@ -1,4 +1,4 @@
-# Library Borrowing Session — Doubly Linked List
+# Library Management System — Doubly Linked List
 
 A menu-driven C++ console program adapted from **Lab 07: Implementation of Doubly Linked List Class**. It manages the ordered list of books in a student's borrowing session.
 
