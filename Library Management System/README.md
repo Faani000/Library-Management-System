@@ -82,12 +82,4 @@ The menu follows **Lab 07 Part A**. Part B asks students to identify a real bidi
 
 ---
 
-## Part B — Individual Project Extension
-**Topic:** Blood Donation Management System
 
-A separate implementation of the doubly linked list application adapted to a donor-directory browsing session is included in:
-`Part B - Blood Donation Management System/`
-
-It supports current-donor display, bidirectional traversal, append, insertion after current, deletion of current, full forward/backward listings, and selecting a current donor by ID. See that folder's README for compile instructions, design reasoning, and a test checklist.
-
-**Important:** Part B is a data-structures prototype with in-memory fictional demo entries, not a complete blood-bank management solution. It does not establish donor medical eligibility or securely persist real donor information.
